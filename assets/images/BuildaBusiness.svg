@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="162.709px" height="162.708px" viewBox="0 0 162.709 162.708" enable-background="new 0 0 162.709 162.708"
+	 xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.4912" y1="81.3535" x2="157.2178" y2="81.3535">
+		<stop  offset="0" style="stop-color:#385CAA"/>
+		<stop  offset="1" style="stop-color:#49BDEA"/>
+	</linearGradient>
+	<circle fill="none" stroke="url(#SVGID_1_)" stroke-width="3" stroke-miterlimit="10" cx="81.354" cy="81.353" r="74.363"/>
+	<g>
+		<g>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="50.3398" y1="80.3926" x2="114.7412" y2="80.3926">
+				<stop  offset="0" style="stop-color:#385CAA"/>
+				<stop  offset="1" style="stop-color:#49BDEA"/>
+			</linearGradient>
+			<path fill="url(#SVGID_2_)" d="M109.374,61.608H95.956v-2.684c0-2.959-2.406-5.365-5.365-5.365H74.489
+				c-2.959,0-5.366,2.406-5.366,5.365v2.684H55.706c-2.959,0-5.366,2.406-5.366,5.367v34.883c0,2.961,2.407,5.367,5.366,5.367
+				h53.668c2.959,0,5.367-2.406,5.367-5.367V66.976C114.741,64.015,112.333,61.608,109.374,61.608z M71.806,58.925
+				c0-1.479,1.205-2.682,2.684-2.682h16.102c1.479,0,2.683,1.203,2.683,2.682v2.684H71.806V58.925z M112.057,101.858
+				c0,1.48-1.204,2.684-2.683,2.684H55.706c-1.479,0-2.684-1.203-2.684-2.684V82.329c0.793,0.463,1.702,0.746,2.684,0.746h21.467
+				v4.025c0,0.742,0.602,1.342,1.342,1.342h8.051c0.742,0,1.342-0.6,1.342-1.342v-4.025h21.467c0.982,0,1.891-0.283,2.684-0.746
+				L112.057,101.858L112.057,101.858z M79.856,85.759v-5.367h5.367v5.367H79.856z M112.057,77.708c0,1.48-1.204,2.684-2.683,2.684
+				H87.907V79.05c0-0.74-0.6-1.342-1.343-1.342h-8.05c-0.74,0-1.342,0.602-1.342,1.342v1.342H55.706
+				c-1.479,0-2.684-1.203-2.684-2.684V66.976c0-1.479,1.205-2.684,2.684-2.684h53.668c1.479,0,2.683,1.205,2.683,2.684V77.708z"/>
+		</g>
+	</g>
+</g>
+</svg>

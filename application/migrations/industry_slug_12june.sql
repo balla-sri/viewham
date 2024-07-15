@@ -1,0 +1,1 @@
+ALTER TABLE `industries` ADD `slug` VARCHAR(200) NULL DEFAULT NULL AFTER `industry`, ADD `content` TEXT NULL DEFAULT NULL AFTER `slug`;

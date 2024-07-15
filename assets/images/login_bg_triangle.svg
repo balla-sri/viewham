@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="1080px" viewBox="0 0 960 1080" enable-background="new 0 0 960 1080" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="480" y1="0" x2="479.9999" y2="1080.0005">
+	<stop  offset="0" style="stop-color:#675ADF"/>
+	<stop  offset="0.1898" style="stop-color:#6166E3"/>
+	<stop  offset="0.5359" style="stop-color:#5287EE"/>
+	<stop  offset="0.9964" style="stop-color:#3ABCFF"/>
+	<stop  offset="1" style="stop-color:#3ABCFF"/>
+</linearGradient>
+<rect x="-0.25" fill="url(#SVGID_1_)" width="960.5" height="1080"/>
+<g>
+	<defs>
+		<rect id="SVGID_2_" x="-0.25" width="960.5" height="1080"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<g opacity="0.1" clip-path="url(#SVGID_3_)">
+		<defs>
+			<rect id="XMLID_34_" x="-0.25" opacity="0.1" width="1088.381" height="1088.939"/>
+		</defs>
+		<clipPath id="XMLID_2_">
+			<use xlink:href="#XMLID_34_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#XMLID_2_)">
+			<g id="XMLID_35_">
+				<polygon points="-55.845,152.534 36.716,-4.77 -55.845,-4.77 				"/>
+				<polygon points="-55.845,152.8 129.435,152.8 36.716,-4.77 -55.845,152.534 				"/>
+				<polygon id="XMLID_113_" fill="#0B0B0B" points="222.155,-4.77 129.435,152.8 36.716,-4.77 				"/>
+				<polygon id="XMLID_112_" fill="#0B0B0B" points="129.435,152.8 222.155,-4.77 314.869,152.8 				"/>
+				<polygon id="XMLID_111_" points="407.58,-4.77 314.869,152.8 222.155,-4.77 				"/>
+				<polygon id="XMLID_110_" fill="#1F1F1F" points="314.869,152.8 407.58,-4.77 500.294,152.8 				"/>
+				<polygon id="XMLID_109_" fill="#333333" points="593.008,-4.77 500.294,152.8 407.58,-4.77 				"/>
+				<polygon id="XMLID_108_" fill="#0B0B0B" points="500.294,152.8 593.008,-4.77 685.727,152.8 				"/>
+				<polygon id="XMLID_107_" points="778.438,-4.77 685.727,152.8 593.008,-4.77 				"/>
+				<polygon id="XMLID_106_" fill="#1F1F1F" points="685.727,152.8 778.438,-4.77 871.152,152.8 				"/>
+				<polygon id="XMLID_105_" fill="#0B0B0B" points="963.881,-4.77 871.152,152.8 778.438,-4.77 				"/>
+				<polygon id="XMLID_104_" fill="#0B0B0B" points="871.152,152.8 963.881,-4.77 1056.593,152.8 				"/>
+				<polygon fill="#0B0B0B" points="-55.845,310.378 36.716,310.378 -55.845,153.066 				"/>
+				<polygon fill="#1F1F1F" points="-55.845,153.066 36.716,310.378 129.435,152.8 -55.845,152.8 				"/>
+				<polygon id="XMLID_103_" fill="#1F1F1F" points="36.716,310.378 129.435,152.8 222.155,310.378 				"/>
+				<polygon id="XMLID_102_" fill="#1F1F1F" points="314.869,152.8 222.155,310.378 129.435,152.8 				"/>
+				<polygon id="XMLID_101_" fill="#1F1F1F" points="222.155,310.378 314.869,152.8 407.58,310.378 				"/>
+				<polygon id="XMLID_100_" fill="#1F1F1F" points="500.294,152.8 407.58,310.378 314.869,152.8 				"/>
+				<polygon id="XMLID_99_" fill="#1F1F1F" points="407.58,310.378 500.294,152.8 593.008,310.378 				"/>
+				<polygon id="XMLID_98_" fill="#0B0B0B" points="685.727,152.8 593.008,310.378 500.294,152.8 				"/>
+				<polygon id="XMLID_97_" points="593.008,310.378 685.727,152.8 778.438,310.378 				"/>
+				<polygon id="XMLID_96_" fill="#1F1F1F" points="871.152,152.8 778.438,310.378 685.727,152.8 				"/>
+				<polygon id="XMLID_95_" points="778.438,310.378 871.152,152.8 963.881,310.378 				"/>
+				<polygon id="XMLID_94_" points="1056.593,152.8 963.881,310.378 871.152,152.8 				"/>
+				<polygon fill="#333333" points="-55.845,467.691 36.716,310.378 -55.845,310.378 				"/>
+				<polygon fill="#333333" points="-55.845,467.957 129.435,467.957 36.716,310.378 -55.845,467.691 				"/>
+				<polygon id="XMLID_93_" fill="#1F1F1F" points="222.155,310.378 129.435,467.957 36.716,310.378 				"/>
+				<polygon id="XMLID_92_" fill="#0B0B0B" points="129.435,467.957 222.155,310.378 314.869,467.957 				"/>
+				<polygon id="XMLID_91_" fill="#333333" points="407.58,310.378 314.869,467.957 222.155,310.378 				"/>
+				<polygon id="XMLID_90_" fill="#1F1F1F" points="314.869,467.957 407.58,310.378 500.294,467.957 				"/>
+				<polygon id="XMLID_89_" fill="#1F1F1F" points="593.008,310.378 500.294,467.957 407.58,310.378 				"/>
+				<polygon id="XMLID_88_" fill="#0B0B0B" points="500.294,467.957 593.008,310.378 685.727,467.957 				"/>
+				<polygon id="XMLID_87_" fill="#0B0B0B" points="778.438,310.378 685.727,467.957 593.008,310.378 				"/>
+				<polygon id="XMLID_86_" fill="#1F1F1F" points="685.727,467.957 778.438,310.378 871.152,467.957 				"/>
+				<polygon id="XMLID_85_" points="963.881,310.378 871.152,467.957 778.438,310.378 				"/>
+				<polygon id="XMLID_84_" fill="#0B0B0B" points="871.152,467.957 963.881,310.378 1056.593,467.957 				"/>
+				<polygon fill="#0B0B0B" points="-55.845,625.527 36.716,625.527 -55.845,468.223 				"/>
+				<polygon fill="#1F1F1F" points="-55.845,468.223 36.716,625.527 129.435,467.957 -55.845,467.957 				"/>
+				<polygon id="XMLID_83_" fill="#1F1F1F" points="36.716,625.527 129.435,467.957 222.155,625.527 				"/>
+				<polygon id="XMLID_82_" fill="#1F1F1F" points="314.869,467.957 222.155,625.527 129.435,467.957 				"/>
+				<polygon id="XMLID_81_" fill="#333333" points="222.155,625.527 314.869,467.957 407.58,625.527 				"/>
+				<polygon id="XMLID_80_" fill="#333333" points="500.294,467.957 407.58,625.527 314.869,467.957 				"/>
+				<polygon id="XMLID_79_" fill="#1F1F1F" points="407.58,625.527 500.294,467.957 593.008,625.527 				"/>
+				<polygon id="XMLID_78_" fill="#333333" points="685.727,467.957 593.008,625.527 500.294,467.957 				"/>
+				<polygon id="XMLID_77_" fill="#333333" points="593.008,625.527 685.727,467.957 778.438,625.527 				"/>
+				<polygon id="XMLID_76_" points="871.152,467.957 778.438,625.527 685.727,467.957 				"/>
+				<polygon id="XMLID_75_" fill="#0B0B0B" points="778.438,625.527 871.152,467.957 963.881,625.527 				"/>
+				<polygon id="XMLID_74_" fill="#333333" points="1056.593,467.957 963.881,625.527 871.152,467.957 				"/>
+				<polygon fill="#0B0B0B" points="-55.845,782.838 36.716,625.527 -55.845,625.527 				"/>
+				<polygon fill="#0B0B0B" points="-55.845,783.104 129.435,783.104 36.716,625.527 -55.845,782.838 				"/>
+				<polygon id="XMLID_73_" fill="#1F1F1F" points="222.155,625.527 129.435,783.104 36.716,625.527 				"/>
+				<polygon id="XMLID_72_" fill="#333333" points="129.435,783.104 222.155,625.527 314.869,783.104 				"/>
+				<polygon id="XMLID_71_" points="407.58,625.527 314.869,783.104 222.155,625.527 				"/>
+				<polygon id="XMLID_70_" fill="#0B0B0B" points="314.869,783.104 407.58,625.527 500.294,783.104 				"/>
+				<polygon id="XMLID_69_" fill="#333333" points="593.008,625.527 500.294,783.104 407.58,625.527 				"/>
+				<polygon id="XMLID_67_" fill="#1F1F1F" points="500.294,783.104 593.008,625.527 685.727,783.104 				"/>
+				<polygon id="XMLID_66_" fill="#333333" points="778.438,625.527 685.727,783.104 593.008,625.527 				"/>
+				<polygon id="XMLID_65_" fill="#1F1F1F" points="685.727,783.104 778.438,625.527 871.152,783.104 				"/>
+				<polygon id="XMLID_64_" fill="#1F1F1F" points="963.881,625.527 871.152,783.104 778.438,625.527 				"/>
+				<polygon id="XMLID_63_" fill="#1F1F1F" points="871.152,783.104 963.881,625.527 1056.593,783.104 				"/>
+				<polygon fill="#0B0B0B" points="-55.845,940.674 36.716,940.674 -55.845,783.369 				"/>
+				<polygon fill="#1F1F1F" points="-55.845,783.369 36.716,940.674 129.435,783.104 -55.845,783.104 				"/>
+				<polygon id="XMLID_62_" fill="#1F1F1F" points="36.716,940.674 129.435,783.104 222.155,940.674 				"/>
+				<polygon id="XMLID_61_" fill="#1F1F1F" points="314.869,783.104 222.155,940.674 129.435,783.104 				"/>
+				<polygon id="XMLID_60_" fill="#1F1F1F" points="222.155,940.674 314.869,783.104 407.58,940.674 				"/>
+				<polygon id="XMLID_57_" fill="#333333" points="500.294,783.104 407.58,940.674 314.869,783.104 				"/>
+				<polygon id="XMLID_56_" points="407.58,940.674 500.294,783.104 593.008,940.674 				"/>
+				<polygon id="XMLID_55_" fill="#0B0B0B" points="685.727,783.104 593.008,940.674 500.294,783.104 				"/>
+				<polygon id="XMLID_54_" fill="#1F1F1F" points="593.008,940.674 685.727,783.104 778.438,940.674 				"/>
+				<polygon id="XMLID_51_" fill="#1F1F1F" points="871.152,783.104 778.438,940.674 685.727,783.104 				"/>
+				<polygon id="XMLID_49_" fill="#0B0B0B" points="778.438,940.674 871.152,783.104 963.881,940.674 				"/>
+				<polygon id="XMLID_48_" fill="#0B0B0B" points="1056.593,783.104 963.881,940.674 871.152,783.104 				"/>
+				<polygon points="-55.845,1097.977 36.716,940.674 -55.845,940.674 				"/>
+				<polygon fill="#1F1F1F" points="-55.845,1098.246 129.435,1098.246 36.716,940.674 -55.845,1097.977 				"/>
+				<polygon id="XMLID_47_" fill="#1F1F1F" points="222.155,940.674 129.435,1098.246 36.716,940.674 				"/>
+				<polygon id="XMLID_46_" fill="#0B0B0B" points="129.435,1098.246 222.155,940.674 314.869,1098.246 				"/>
+				<polygon id="XMLID_45_" fill="#0B0B0B" points="407.58,940.674 314.869,1098.246 222.155,940.674 				"/>
+				<polygon id="XMLID_44_" fill="#1F1F1F" points="314.869,1098.246 407.58,940.674 500.294,1098.246 				"/>
+				<polygon id="XMLID_43_" fill="#1F1F1F" points="593.008,940.674 500.294,1098.246 407.58,940.674 				"/>
+				<polygon id="XMLID_41_" fill="#0B0B0B" points="500.294,1098.246 593.008,940.674 685.727,1098.246 				"/>
+				<polygon id="XMLID_40_" fill="#1F1F1F" points="778.438,940.674 685.727,1098.246 593.008,940.674 				"/>
+				<polygon id="XMLID_38_" fill="#333333" points="685.727,1098.246 778.438,940.674 871.152,1098.246 				"/>
+				<polygon id="XMLID_37_" points="963.881,940.674 871.152,1098.246 778.438,940.674 				"/>
+				<polygon id="XMLID_36_" fill="#1F1F1F" points="871.152,1098.246 963.881,940.674 1056.593,1098.246 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

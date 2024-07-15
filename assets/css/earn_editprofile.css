@@ -1,0 +1,40 @@
+a.x-delete.selFile {
+    color: red;
+    margin-left: 10px;
+    font-size: 21px;
+}
+.attach-item {
+    color: #0865f5;
+}
+.geo_location{
+position:relative;
+margin-bottom:15px;
+}
+.geo_location .closesquare{
+top: 0px;
+position: absolute;
+right: 0px;
+font-size: 12px;
+padding: 5px 8px 0 0;
+bottom: 0px;
+}
+.sidePanel .panel-title a {
+    display: block;
+    color: #fff;
+}
+.sidePanel .panel-default>.panel-heading {
+    padding: 1px 10px;
+    background: none;
+    border-bottom: 1px solid #ddd;
+}
+.earnPanel .panel-heading a {
+    color: #fff !important;
+}
+a.type_3 {
+    background: #f0b615;
+    padding: 5px 4px !important;
+}
+a.type_4 {
+    background: #65cafd;
+    padding: 5px 4px !important;
+}

@@ -1,0 +1,14 @@
+.selectize-dropdown.single.demo-default,
+.selectize-dropdown.multi.mb-10 {
+width: 100% !important;
+top: 37px !important;
+}
+.selectize-dropdown.single.mb-10 {
+top: 35px !important;
+width: 100% !important;
+}
+.lsample {
+color: #515151;
+font-weight: normal;
+font-size: 14px;
+}

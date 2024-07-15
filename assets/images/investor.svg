@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="157px" height="162px" viewBox="0 0 157 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>investor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-3.61985856%" y1="50.1274293%" x2="103.931529%" y2="50.1274293%" id="linearGradient-1">
+            <stop stop-color="#675ADF" offset="0%"></stop>
+            <stop stop-color="#3ABCFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.716371963%" y1="50.025504%" x2="100.828291%" y2="50.025504%" id="linearGradient-2">
+            <stop stop-color="#675ADF" offset="0%"></stop>
+            <stop stop-color="#3ABCFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.3189781%" y1="50.1710059%" x2="102.035523%" y2="50.1710059%" id="linearGradient-3">
+            <stop stop-color="#675ADF" offset="0%"></stop>
+            <stop stop-color="#3ABCFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-144.000000, -183.000000)" fill="#FFFFFF">
+            <g id="Banner" transform="translate(86.000000, 110.000000)">
+                <g id="Group">
+                    <g id="investor">
+                        <g transform="translate(60.000000, 74.000000)">
+                            <g>
+                                <g id="Group-3">
+                                    <path d="M118.9,11.2 C123.9,16.3 123.9,24.5 118.8,29.6 C113.7,34.6 105.5,34.6 100.4,29.5 C95.3,24.4 95.4,16.2 100.5,11.1 C105.6,6.1 113.8,6.1 118.9,11.2 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2" fill-rule="nonzero"></path>
+                                    <g id="Group" fill-rule="nonzero" stroke-width="2">
+                                        <path d="M142.2,3.6 C134.8,16 126.9,28.2 118.6,40 C117.9,39.4 117.2,38.9 116.4,38.4 C107.1,33.1 93.7,41.7 90,43.3 C89.9,39.7 89.7,36.1 89.6,32.5 C89.3,24.5 76.8,24.4 77.1,32.4 C77.4,39 77.6,45.6 77.8,52.1 C77.9,55.8 81.6,59.5 85.6,58.2 C87.8,57.4 90,56.6 92.1,55.7 C85,68.7 80.6,73.8 80.4,74.1 C62.2,95.5 46.2,114.5 28,135.9 C21.5,143.5 33,153.9 39.5,146.2 C50.3,133.5 61.1,120.7 71.9,108 C63.8,121.5 55.6,134.9 47.5,148.4 C42.3,157 55.8,164.7 61,156.2 C71.4,138.9 113,73.8 119.4,60 C131.4,43.8 142.5,27.1 152.9,9.8 C157.1,2.9 146.3,-3.3 142.2,3.6 Z" id="Shape" stroke="url(#linearGradient-2)"></path>
+                                        <path d="M82.8,63 C81.2,62.8 79.7,62.2 78.3,61.3 C77.7,60.9 77.2,60.4 76.7,59.9 L76.4,59.8 L0.6,114.4 L29.3,127.4 L77,71.2 C77.1,71.1 79.2,68.7 82.8,63 Z" id="Shape" stroke="url(#linearGradient-3)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

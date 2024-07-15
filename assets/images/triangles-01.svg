@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1920.001px" height="306.268px" viewBox="0 0 1920.001 306.268" enable-background="new 0 0 1920.001 306.268"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="960.0005" y1="-185.4155" x2="960.0005" y2="306.268">
+	<stop  offset="0" style="stop-color:#0E53D3"/>
+	<stop  offset="1" style="stop-color:#47BDEA"/>
+</linearGradient>
+<rect fill="url(#SVGID_1_)" width="1920.001" height="306.268"/>
+<g>
+	<defs>
+		<rect id="SVGID_2_" width="1920.001" height="306.268"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<g opacity="0.3" clip-path="url(#SVGID_3_)">
+		<g>
+			<defs>
+				<rect id="XMLID_148_" x="11.497" y="-175.594" width="1909.397" height="1909.383"/>
+			</defs>
+			<clipPath id="XMLID_34_">
+				<use xlink:href="#XMLID_148_"  overflow="visible"/>
+			</clipPath>
+		</g>
+		<g>
+			<defs>
+				<rect id="XMLID_2_" y="-565.594" width="1920.894" height="1920.881"/>
+			</defs>
+			<clipPath id="XMLID_35_">
+				<use xlink:href="#XMLID_2_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#XMLID_35_)">
+				<g id="XMLID_3_">
+					<polygon fill="#333333" points="-98.119,259.406 65.238,-18.09 -98.119,-18.09 					"/>
+					<polygon fill="#333333" points="-98.119,259.877 228.88,259.877 65.238,-18.09 -98.119,259.406 					"/>
+					<polygon id="XMLID_127_" fill="#1F1F1F" points="392.525,-18.09 228.88,259.877 65.238,-18.09 					"/>
+					<polygon id="XMLID_126_" fill="#0A0A0A" points="228.88,259.877 392.525,-18.09 556.154,259.877 					"/>
+					<polygon id="XMLID_125_" fill="#333333" points="719.783,-18.09 556.154,259.877 392.525,-18.09 					"/>
+					<polygon id="XMLID_124_" fill="#1F1F1F" points="556.154,259.877 719.783,-18.09 883.416,259.877 					"/>
+					<polygon id="XMLID_123_" fill="#1F1F1F" points="1047.044,-18.09 883.416,259.877 719.783,-18.09 					"/>
+					<polygon id="XMLID_122_" fill="#0A0A0A" points="883.416,259.877 1047.044,-18.09 1210.685,259.877 					"/>
+					<polygon id="XMLID_121_" fill="#0A0A0A" points="1374.316,-18.09 1210.685,259.877 1047.044,-18.09 					"/>
+					<polygon id="XMLID_120_" fill="#1F1F1F" points="1210.685,259.877 1374.316,-18.09 1537.947,259.877 					"/>
+					<polygon id="XMLID_119_" points="1701.603,-18.09 1537.947,259.877 1374.316,-18.09 					"/>
+					<polygon id="XMLID_118_" fill="#0A0A0A" points="1537.947,259.877 1701.603,-18.09 1865.232,259.877 					"/>
+					<polygon fill="#1F1F1F" points="2017.765,-18.09 1701.603,-18.09 1865.232,259.877 2017.765,0.785 					"/>
+					<polygon fill="#0A0A0A" points="2017.765,259.877 2017.765,0.785 1865.232,259.877 					"/>
+					<polygon fill="#0A0A0A" points="-98.119,537.832 65.238,537.832 -98.119,260.346 					"/>
+					<polygon fill="#1F1F1F" points="-98.119,260.346 65.238,537.832 228.88,259.877 -98.119,259.877 					"/>
+					<polygon id="XMLID_117_" fill="#1F1F1F" points="65.238,537.832 228.88,259.877 392.525,537.832 					"/>
+					<polygon id="XMLID_116_" fill="#1F1F1F" points="556.154,259.877 392.525,537.832 228.88,259.877 					"/>
+					<polygon id="XMLID_115_" fill="#333333" points="392.525,537.832 556.154,259.877 719.783,537.832 					"/>
+					<polygon id="XMLID_68_" fill="#333333" points="883.416,259.877 719.783,537.832 556.154,259.877 					"/>
+					<polygon id="XMLID_59_" fill="#1F1F1F" points="719.783,537.832 883.416,259.877 1047.044,537.832 					"/>
+					<polygon id="XMLID_58_" fill="#333333" points="1210.685,259.877 1047.044,537.832 883.416,259.877 					"/>
+					<polygon id="XMLID_53_" fill="#333333" points="1047.044,537.832 1210.685,259.877 1374.316,537.832 					"/>
+					<polygon id="XMLID_52_" points="1537.947,259.877 1374.316,537.832 1210.685,259.877 					"/>
+					<polygon id="XMLID_50_" fill="#0A0A0A" points="1374.316,537.832 1537.947,259.877 1701.603,537.832 					"/>
+					<polygon id="XMLID_42_" fill="#333333" points="1865.232,259.877 1701.603,537.832 1537.947,259.877 					"/>
+					<polygon points="2017.765,537.832 2017.765,518.953 1865.232,259.877 1701.603,537.832 					"/>
+					<polygon points="2017.765,518.953 2017.765,259.877 1865.232,259.877 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<rect id="XMLID_1_" x="11.497" y="-175.594" width="1909.397" height="1909.383"/>
+			</defs>
+			<clipPath id="XMLID_36_">
+				<use xlink:href="#XMLID_1_"  overflow="visible"/>
+			</clipPath>
+		</g>
+	</g>
+</g>
+</svg>
